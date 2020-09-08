@@ -9,7 +9,7 @@ return false;
 else 
 {
 alert('Great ! Welcome to the group !');
-window.open("https://www.google.co.in/");
+window.open("https://chat.whatsapp.com/DVNjeNGEGcB2F0RAiHstgu");
 return true; 
 }
 }
