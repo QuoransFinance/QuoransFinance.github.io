@@ -9,6 +9,7 @@ return false;
 else 
 {
 alert('Great ! Welcome to the group !');
+window.open("https://www.google.co.in/");
 return true; 
 }
 }
