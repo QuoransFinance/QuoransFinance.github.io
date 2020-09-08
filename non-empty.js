@@ -3,12 +3,12 @@ function required()
 var empt = document.form1.text1.value;
 if (empt === "")
 {
-alert("Please input a Value");
+alert("It is compulsory to enter an introduction comprising of your educational and employment background , along with your expectatioins from this group.");
 return false;
 }
 else 
 {
-alert('Code has accepted : you can try another');
+alert('Great ! Welcome to the group !');
 return true; 
 }
 }
